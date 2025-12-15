@@ -78,7 +78,7 @@ const Footer = () => {
                     <ul className='mt-3 flex flex-col gap-1.5'>
                         <li>NIT-Hamirpur</li>
                         <li>177004 Himachal Pradesh</li>
-                        <li>rkst0003@gmail.com</li>
+                        <li>suhanikaushal62@gmail.com</li>
                     </ul>
                 </div>
 
